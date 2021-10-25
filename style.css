@@ -1,0 +1,78 @@
+body{font-family: 'Oswald', sans-serif;
+    margin: o;
+}
+section{height: 500px;}
+.fast-section{
+    background-image: url("images/header-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.secnd-section{
+    background-image: url("images/biography-bg.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.third-section{
+    margin-top: 80px;
+    background-image: url("images/latest-work-bg.png");
+    background-size: cover;
+    background-position: center;
+}
+.third-width{
+    width: 28%;
+    float: left;
+    margin-left: 3%;
+    padding-top: 30px;
+}
+.fourth-section{
+    text-align: center;
+}
+.third{
+    text-align: center;
+}
+.third-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    margin-top: 100px;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 80%;
+    height: 300px;
+}
+h1{
+    color: darkred;
+   font-size: 50px;
+}
+a{
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.gmail{
+    background-color: deeppink;
+    width: 400px;
+    margin-top: 50px;
+    padding: 15px 20px;
+    margin-left: 40%;
+    border-radius: 10px;
+    color: white;
+}
+.ceo{
+    color: grey;
+}
+.moccy{
+    margin-top: 50px;
+}
+.lorem{
+    margin-top: 50px;
+}
+footer{text-align: center;}
